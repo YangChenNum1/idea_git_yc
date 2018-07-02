@@ -17,6 +17,10 @@ public class EmployeeDao {
     public void m2(){
 
     }
+    
+    public void b(){
+        
+    }
 
     public void a(){
 
