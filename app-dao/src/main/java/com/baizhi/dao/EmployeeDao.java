@@ -9,4 +9,8 @@ public class EmployeeDao {
     public void LoginEmployee(Employee emp){
         System.out.println(emp);
     }
+
+    public void m1(){
+
+    }
 }
