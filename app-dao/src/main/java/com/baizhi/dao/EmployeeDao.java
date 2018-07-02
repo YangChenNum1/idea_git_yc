@@ -18,4 +18,8 @@ public class EmployeeDao {
 
     }
 
+    public void a(){
+
+    }
+
 }
