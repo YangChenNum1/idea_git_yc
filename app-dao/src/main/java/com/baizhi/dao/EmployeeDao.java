@@ -11,7 +11,7 @@ public class EmployeeDao {
     }
 
     public void m1(){
-
+        System.out.println("hello dev");
     }
 
     public void m2(){
