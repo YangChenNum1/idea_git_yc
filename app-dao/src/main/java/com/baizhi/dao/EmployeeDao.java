@@ -22,8 +22,4 @@ public class EmployeeDao {
 
     }
 
-    public void c(){
-
-    }
-
 }
